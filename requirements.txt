@@ -6,3 +6,5 @@ pyarrow>=15.0
 shapely>=2.0
 matplotlib>=3.8
 seaborn>=0.13
+pygris
+requests
