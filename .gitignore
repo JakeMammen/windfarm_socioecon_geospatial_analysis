@@ -1,0 +1,23 @@
+
+# Data folders (raw data should never be committed)
+data/raw/
+data/processed/*.parquet
+*.parquet
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Large files / shapefiles (we already have the raw data warning)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.xml
