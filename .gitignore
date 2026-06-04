@@ -21,3 +21,4 @@ __pycache__/
 *.sbn
 *.sbx
 *.xml
+figures/*.html
