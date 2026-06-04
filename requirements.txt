@@ -9,3 +9,4 @@ seaborn>=0.13
 pygris
 requests
 pydeck
+streamlit
